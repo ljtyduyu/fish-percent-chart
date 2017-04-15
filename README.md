@@ -50,7 +50,7 @@ ggplot(Project)+geom_path(aes(lon,lat,group=group))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/one.png" width = "632.6" height = "140.8" alt="one" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/one.png" width = "632.6" height = "120.8" alt="one" align=center />
 </div>
 
 
@@ -84,7 +84,7 @@ Projdata<-rbind(Proj1,Proj2,Proj3,Proj4,Proj5)
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "135.5" alt="two" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "155.5" alt="two" align=center />
 </div>
 
 ---------------------------------------------------------------------------
@@ -136,7 +136,7 @@ print(p2,vp=vplayout(2,1:2))
 
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/three.png" width = "681.6" height = "343.6" alt="three" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/three.png" width = "681.6" height = "323.6" alt="three" align=center />
 </div>
 
 
@@ -149,7 +149,7 @@ multiplot(p1,p2,layout=matrix(c(1,1,2,2),nrow=2,byrow=TRUE))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/four.png" width = "700" height = "300" alt="four" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/four.png" width = "700" height = "280" alt="four" align=center />
 </div>
 
 联系方式：
