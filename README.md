@@ -112,7 +112,7 @@ plot.margin = unit(c(.2,.2,1,.2), "cm")
 
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/five.jpg" width = "635" height = "135" alt="five" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/five.jpg" width = "660" height = "280" alt="five" align=center />
 </div>
 
 
@@ -134,7 +134,7 @@ plot.margin = unit(c(.2,.2,1,.2), "cm")
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/six.jpg" width = "635" height = "135" alt="six" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/six.jpg" width = "600" height = "270" alt="six" align=center />
 </div>
 
 
