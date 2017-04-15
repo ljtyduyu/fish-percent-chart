@@ -50,7 +50,7 @@ ggplot(Project)+geom_path(aes(lon,lat,group=group))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/one.png" width = "632.6" height = "136.8" alt="one" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/one.png" width = "632.6" height = "140.8" alt="one" align=center />
 </div>
 
 
@@ -84,7 +84,7 @@ Projdata<-rbind(Proj1,Proj2,Proj3,Proj4,Proj5)
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "131.5" alt="two" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "135.5" alt="two" align=center />
 </div>
 
 ---------------------------------------------------------------------------
