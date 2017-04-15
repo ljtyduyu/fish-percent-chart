@@ -136,7 +136,7 @@ print(p2,vp=vplayout(2,1:2))
 
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/three.png" width = "681.6" height = "243.6" alt="three" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/three.png" width = "681.6" height = "343.6" alt="three" align=center />
 </div>
 
 
