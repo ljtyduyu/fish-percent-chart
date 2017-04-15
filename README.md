@@ -84,7 +84,7 @@ Projdata<-rbind(Proj1,Proj2,Proj3,Proj4,Proj5)
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "391.5" alt="two" align=center />
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/two.png" width = "652.8" height = "291.5" alt="two" align=center />
 </div>
 
 ---------------------------------------------------------------------------
