@@ -110,6 +110,13 @@ plot.margin = unit(c(.2,.2,1,.2), "cm")
 )
 ```
 
+
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/five.png" width = "635" height = "135" alt="five" align=center />
+</div>
+
+
+
 ```r
 p2<-ggplot()+
 geom_polygon(data=Projdata,aes(x=lon,y=lat,group=group),fill="#FFC000",col=NA)+
@@ -125,6 +132,12 @@ axis.text.y=element_blank(),
 plot.margin = unit(c(.2,.2,1,.2), "cm")
 )
 ```
+
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/fish-percent-chart/blob/master/Image/six.png" width = "635" height = "135" alt="six" align=center />
+</div>
+
+
 
 ```r
 grid.newpage()
